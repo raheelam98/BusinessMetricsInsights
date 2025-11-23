@@ -122,6 +122,6 @@
 ### **Annual Global Sales & Profit Perfomance**
 
 <div style="text-align: center;">
-    <img alt="" src="./Reports_Images/sales_and_profit_report_1.jpeg" width="700px"></img>
+    <img alt="" src="./Report_Images/sales_and_profit_report_1.jpeg" width="700px"></img>
 </div>
 
