@@ -92,7 +92,6 @@ A Gauge Chart is used to show **progress toward a target or goal within a define
 - Slicer (Format) —> slicer setting —> options (style —> dropdown)
 
 ---
---- 
 
 ### **Line Chart - 3**
 Used to show trends over time for one or more categories.
