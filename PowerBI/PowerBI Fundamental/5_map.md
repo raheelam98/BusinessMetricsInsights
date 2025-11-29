@@ -54,7 +54,7 @@ Power BI offers various types of map visuals to represent geographical data effe
 
 ---
 
-## 3. Map with Pie Chart
+### 3. Map with Pie Chart
 
 #### **Build**
 - **Location:** Market  
